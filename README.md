@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... Monte Carlo simulations
+- 🔭 I’m currently working on ... Monte Carlo simulations and exploring LLMs
 
 <!--
 **A-Powell-dev/A-Powell-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
